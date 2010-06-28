@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface SimpleBrowserViewController : UIViewController {
-
+	IBOutlet UIWebView *webview;
 }
 
 @end
