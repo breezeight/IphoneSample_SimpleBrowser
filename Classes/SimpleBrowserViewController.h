@@ -8,7 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SimpleBrowserViewController : UIViewController {
+@interface SimpleBrowserViewController : UIViewController 
+	<UITextFieldDelegate> {
 	IBOutlet UIWebView *webview;
 }
 

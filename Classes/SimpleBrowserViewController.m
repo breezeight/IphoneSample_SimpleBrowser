@@ -10,6 +10,12 @@
 
 @implementation SimpleBrowserViewController
 
+- (BOOL)textFieldShouldReturn:(UITextField *)textField {
+	NSURL *url = [NSURL URLWithString:textField.text];
+	NSURLRequest *request = [NSURLRequest requestWithURL:url];
+    [webview loadRequest:request];
+}
+
 
 
 /*
