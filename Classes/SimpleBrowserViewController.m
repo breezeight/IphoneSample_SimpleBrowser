@@ -10,6 +10,8 @@
 
 @implementation SimpleBrowserViewController
 
+@synthesize webview;
+
 - (BOOL)textFieldShouldReturn:(UITextField *)textField {
 	NSURL *url = [NSURL URLWithString:textField.text];
 	NSURLRequest *request = [NSURLRequest requestWithURL:url];
@@ -65,6 +67,8 @@
 
 
 - (void)dealloc {
+	// we are using property, it's safer to set the variable through the setter to nil.
+	self.webview = nil;
     [super dealloc];
 }
 

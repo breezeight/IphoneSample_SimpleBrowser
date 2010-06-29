@@ -13,5 +13,7 @@
 	IBOutlet UIWebView *webview;
 }
 
+@property(retain,nonatomic) UIWebView *webview;
+
 @end
 

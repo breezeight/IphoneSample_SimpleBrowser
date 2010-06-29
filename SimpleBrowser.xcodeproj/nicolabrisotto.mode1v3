@@ -216,10 +216,50 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>AD09FF9811D9EE3200AC7F66</string>
+						<string>AD09FFAD11DA244400AC7F66</string>
 						<key>history</key>
 						<array>
 							<string>AD09FF8F11D9ED4500AC7F66</string>
+						</array>
+					</dict>
+					<key>SplitCount</key>
+					<string>1</string>
+				</dict>
+				<key>StatusBarVisibility</key>
+				<true/>
+			</dict>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 20}, {750, 781}}</string>
+				<key>PBXModuleWindowStatusBarHidden2</key>
+				<false/>
+				<key>RubberWindowFrame</key>
+				<string>15 56 750 822 0 0 1440 878 </string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<dict>
+				<key>PBXProjectModuleGUID</key>
+				<string>AD09FFA311DA23DA00AC7F66</string>
+				<key>PBXProjectModuleLabel</key>
+				<string>SimpleBrowserViewController.h</string>
+				<key>PBXSplitModuleInNavigatorKey</key>
+				<dict>
+					<key>Split0</key>
+					<dict>
+						<key>PBXProjectModuleGUID</key>
+						<string>AD09FFA411DA23DA00AC7F66</string>
+						<key>PBXProjectModuleLabel</key>
+						<string>SimpleBrowserViewController.h</string>
+						<key>_historyCapacity</key>
+						<integer>0</integer>
+						<key>bookmark</key>
+						<string>AD09FFAE11DA244400AC7F66</string>
+						<key>history</key>
+						<array>
+							<string>AD09FF9F11DA236900AC7F66</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -270,8 +310,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -352,6 +390,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -369,14 +409,14 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>AD09FF9711D9EE3200AC7F66</string>
+										<string>AD09FFAC11DA244400AC7F66</string>
 										<key>history</key>
 										<array>
 											<string>AD09FF4711D975D800AC7F66</string>
 											<string>AD09FF4911D975D800AC7F66</string>
 											<string>AD09FF4A11D975D800AC7F66</string>
-											<string>AD09FF6011D9761300AC7F66</string>
-											<string>AD09FF4811D975D800AC7F66</string>
+											<string>AD09FFA011DA23DA00AC7F66</string>
+											<string>AD09FFA111DA23DA00AC7F66</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -579,6 +619,7 @@
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>AD09FF2911D9013A00AC7F66</string>
+		<string>AD09FFA311DA23DA00AC7F66</string>
 		<string>/devel/SRC/iphone_samples/SimpleBrowser/SimpleBrowser.xcodeproj</string>
 		<string>AD09FF6211D9761300AC7F66</string>
 	</array>
